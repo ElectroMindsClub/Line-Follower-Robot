@@ -1,4 +1,4 @@
-//Ouail Ammar Abd Elhakim
+
 #include <QTRSensors.h>
 int RF = 5;
 int RB = 4;
