@@ -1,8 +1,8 @@
 #include <QTRSensors.h>
-int RF = 12;
-int RB = 11;
-int LF = 9;
-int LB = 10;
+int RF = 8;
+int RB = 9;
+int LF = 10;
+int LB = 11;
 int SR = 5;
 int SL = 6;
 int hs = 200;
